@@ -11,11 +11,8 @@ exclude:          [".editorconfig", ".gitignore", "bower.json", "composer.json",
 port:             9001
 
 # Custom vars
-current_version:  3.0.2
-repo:             https://github.com/twbs/bootstrap
-
-download_source:  https://github.com/twbs/bootstrap/archive/v3.0.2.zip
-download_dist:    https://github.com/twbs/bootstrap/releases/download/v3.0.2/bootstrap-3.0.2-dist.zip
+url_shortener:    http://s.zsh.io
+bodega84:         http://bodega84.com
 
 blog:             http://blog.getbootstrap.com
 expo:             http://expo.getbootstrap.com
